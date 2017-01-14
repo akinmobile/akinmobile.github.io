@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Firebase app to app notification for android."
-date:   2016-09-01 07:07:19
-categories: [android, firebase]
+title:  "android implementing greenrobot greendao ORM for your sqlite"
+date:   2017-01-16 07:07:19
+categories: [android, sqlite, database]
 comments: true
 ---
 
